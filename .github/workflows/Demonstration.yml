@@ -10,7 +10,7 @@ on:
    type: opened, closed
 
   schedule: 
-    - cron: '*/15 * * * *'
+    - cron: '0/15 * * * *'
 
   workflow_dispatch:
 
