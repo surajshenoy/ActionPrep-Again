@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: surajshenoy/ActionPrep-Again/.github/workflows/main.yml@main
+    uses: surajshenoy/Act/.github/workflows/main.yml@main
 
   job2:
     runs-on: ubuntu-latest
